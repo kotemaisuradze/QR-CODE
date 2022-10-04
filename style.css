@@ -1,0 +1,36 @@
+body {
+  background-color: #D5E1EF;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.conteiner {
+  width: 320px;
+  height: 497px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 16px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: 'outfit';
+  font-size: 26px;
+  color: #1F314F;
+  text-align: center;
+}
+
+p {
+  font-family: 'outfit';
+  font-size: 16px;
+  color: #7D889E;
+  text-align: center;
+  margin: 16px 32px;
+}
